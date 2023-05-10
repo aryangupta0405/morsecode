@@ -8,8 +8,10 @@ In morse Code a ```. (dot)``` take 48ms and a ```_ (dash)``` take 144ms and inte
 - Altera Cyclone II FPGA
 - USB blaster JATAG programmer
 - 4X4 button matrix
+- 4X 1K ohm resistors
 - Arduino uno( as a clock input)
 - buzzer
+- connecting wires
 
 ## Software Used
 - [Intel Quartus II Web Edition](https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html)

@@ -17,7 +17,7 @@ In morse Code a ```. (dot)``` take 48ms and a ```_ (dash)``` take 144ms and inte
 - [Intel Quartus II Web Edition](https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html)
 
 ## Schematic diagram
-![schematic diagram](![minor_project_schematic](https://github.com/aryangupta0405/morsecode/assets/83750537/86736237-f82a-45a4-ad77-d49356b62a05) "Schematic diagram")
+![schematic diagram](/images/schematic.jpg?raw=true "Title") 
 
 ## Pin Discpition 
 
@@ -33,7 +33,14 @@ In morse Code a ```. (dot)``` take 48ms and a ```_ (dash)``` take 144ms and inte
 
 
 A screenshot of pin assignment in Quartus II  
-![pinout](![pin_discription](https://github.com/aryangupta0405/morsecode/assets/83750537/9a03b037-1922-4629-918b-06e8a999ca70) "pin discription")
+![pinout](/images/pinout.jpg?raw=true "Title") 
+
+
+## RTL Synthesis 
+
+
+![synthesis](/images/synthesis.jpg?raw=true "Title") 
+
 
  
 

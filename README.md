@@ -19,7 +19,7 @@ In morse Code a ```. (dot)``` take 48ms and a ```_ (dash)``` take 144ms and inte
 ## Schematic diagram
 ![schematic diagram](/images/schematic.jpg?raw=true "Title") 
 
-## Pin Discpition 
+## Pin Description 
 
 | Pin Name | Pin Number | Input/Output |
 |----------|------------|--------------|
